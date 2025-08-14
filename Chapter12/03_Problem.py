@@ -1,0 +1,1 @@
+''' Write a list comprehension to print a listw which cot'''
